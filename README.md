@@ -1,8 +1,10 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Harsh Pundhir
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Learning Machine (Developer/Creator/B+ve Pill)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm an enthusiastic engineer and self-motivated graduate with the capability of transforming ideas into technical solutions. With an unquenchable passion for Artificial intelligence, comprehensive knowledge of Machine learning and 5 years of teaching experience, I intend to be a successful AI researcher (teacher) and a better person today than I was yesterday.
+The projects are build from ground up and give you an insight into my tiny lil brain.
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
