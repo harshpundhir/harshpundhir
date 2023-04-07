@@ -2,6 +2,8 @@
 <h3 align="center">I'm an enthusiastic engineer and self-motivated graduate with the capability of transforming ideas into technical solutions. With an unquenchable passion for Artificial intelligence, comprehensive knowledge of Machine learning and 5 years of teaching experience, I intend to be a successful AI researcher (teacher) and a better person today than I was yesterday. The projects are build from ground up and give you an insight into my tiny lil brain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpundhir&label=Profile%20views&color=0e75b6&style=flat" alt="harshpundhir" /> </p>
+<img align="right" alt = "harsh coding" width = 400 src="![image](https://user-images.githubusercontent.com/58081276/230630988-2ecf797a-0df9-46d2-97ab-c7f9ea870d48.png)
+">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpundhir" alt="harshpundhir" /></a> </p>
 
